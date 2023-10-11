@@ -1,0 +1,12 @@
+[
+  {
+    "domain": "http://example.com",
+    "path": "/",
+    "notes": "Этот сайт опасен"
+  },
+  {
+    "domain": "https://malicious-site.com",
+    "path": "/restricted",
+    "notes": "Подозрительный сайт"
+  }
+]
